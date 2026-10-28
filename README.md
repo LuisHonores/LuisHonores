@@ -1,6 +1,6 @@
 # ¡Hola, soy Luis Honores! 👋
 
-**Ingeniero GenAI | Sr. Data Scientist | AI Product Manager**
+**Analytics translator | Big Data | Business Intelligence**
 
 ---
 
@@ -22,9 +22,6 @@ Como firme defensor del desarrollo de código abierto, soy **Microsoft MVP en Da
 
 ---
 
-## "Llámame si parece imposible o nadie quiere hacerlo"
-
----
 
 ## En qué estoy trabajando actualmente
 
@@ -85,17 +82,16 @@ También disfruto ayudando con **Azure**.
 ### Plataformas cloud y herramientas
 
 - Azure (Synapse, ML, Data Factory, DevOps, Copilot Studio)
-- AWS
 - Databricks
 - Snowflake
 - Docker, Kubernetes
-- UiPath, Power Automate (RPA)
+- Power Automate, Power Automate (RPA)
 - VectorDB, Pinecone
 
 ### Bases de datos y reportería
 
-- SQL Server, Oracle, Salesforce
-- Power BI, Qlik, Tableau
+- SQL Server, Oracle
+- Power BI,
 
 ### Habilidades blandas
 
@@ -107,13 +103,9 @@ También disfruto ayudando con **Azure**.
 
 ## Conéctate conmigo
 
-- **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-- **GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario)
-- **Artículos:** [accelerationeconomy.com](https://accelerationeconomy.com)
-- **Mi libro:** "Machine Learning in Power BI with R and Python"
+- **LinkedIn:** [[linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)](https://www.linkedin.com/in/luishonores/)
+
 
 ---
 
-## Dato curioso
 
-¡He vivido y trabajado en **7 países de 3 continentes!**
