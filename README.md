@@ -6,13 +6,7 @@
 
 ## Sobre mí
 
-Soy **Sr. Data Scientist** y **AI Product Manager**, y tiendo puentes entre la tecnología, las necesidades de los usuarios y los objetivos de negocio, con un profundo conocimiento de ingeniería y FinOps.
-
-Como **Ingeniero GenAI**, me especializo en desarrollar soluciones de vanguardia. Mi trabajo incluye crear **agentes de IA para automatización**, sistemas avanzados de **RAG (Retrieval Augmented Generation)** y aprovechar tecnologías como **VectorDB** y **Pinecone** para construir soluciones de datos robustas. Lidero equipos en el desarrollo de automatización inteligente y sistemas multiagente, combinando ML e IA Generativa.
-
-Mi experiencia también abarca **Ingeniería de Machine Learning**, **MLOps** y **NLP**, donde he concebido numerosos productos de datos en industrias como Banca, Mercados Personales, FinTech, Cadena de Suministro y Operaciones Legales. Me apasiona aplicar **Machine Learning a la Ciberseguridad (ML Sec)** y trabajar con **Analítica en Tiempo Real**.
-
-Como firme defensor del desarrollo de código abierto, soy **Microsoft MVP en Data Platform** desde 2019, coautor de *"Machine Learning in Power BI with R and Python"* y *"MLOps: from Notebook To Pipeline"*, y profesor universitario de ML / IA y Finanzas Cuantitativas.
+Analista de Datos certificado en Microsoft Power BI (PL-300), con más de 4 años de experiencia en banca, retail y consumo masivo, especializado en análisis de información, automatización de reportes y monitoreo de indicadores de gestión. Experiencia en diseño de experimentos (A/B Testing) y aplicación de inferencia causal para maximizar tasas de conversión y rentabilidad. Perfil analítico, proactivo y con alto interés en proyectos de eficiencia operativa y transformación digital. 
 
 ---
 
@@ -25,10 +19,9 @@ Como firme defensor del desarrollo de código abierto, soy **Microsoft MVP en Da
 
 ## En qué estoy trabajando actualmente
 
-- Trabajo como **Analista** en Acceleration Economy y como **Freelance de IA**
-- Desarrollo **Automatización Inteligente** y **sistemas Multiagente** para empresas multinacionales
-- Construyo el futuro de la educación desarrollando una **herramienta impulsada por IA** para docentes
-- Escribo artículos con regularidad en [accelerationeconomy.com](https://accelerationeconomy.com)
+- Trabajo como **Analista Senior de Inteligencia y Analítica  Avanzada** en Mibanco
+- Trabajo como **Analista de datos** en Dimexa
+
 
 ---
 
@@ -41,21 +34,6 @@ Siempre estoy ampliando mis conocimientos en:
 - **ML de Seguridad** (aplicar ML a la Ciberseguridad)
 - **ML en Tiempo Real** / Analítica en tiempo real
 
----
-
-## ¡Colaboremos!
-
-Me encantaría colaborar en **cualquier tema relacionado con ML / IA**, especialmente en proyectos aplicados a **Ciberseguridad**.
-
-No dudes en **preguntarme sobre**:
-
-- Power BI
-- Análisis de Datos
-- Machine Learning (ML), Inteligencia Artificial (IA)
-- FinTech
-- Agentes de IA · Hiperautomatización
-
-También disfruto ayudando con **Azure**.
 
 ---
 
@@ -64,9 +42,6 @@ También disfruto ayudando con **Azure**.
 ### Áreas principales
 
 - Inteligencia Artificial (IA)
-- IA Generativa (GenAI)
-- Ingeniería de Machine Learning
-- MLOps / CI/CD
 - Ciencia de Datos / Analítica Avanzada
 - Gestión de Producto de IA
 - Inteligencia de Negocios y Calidad de Datos
@@ -74,24 +49,21 @@ También disfruto ayudando con **Azure**.
 ### Programación y frameworks
 
 - Python
-- TensorFlow
-- HuggingFace
 - PySpark
-- LangChain, LangGraph, LlamaIndex, crewAI, smolagents, AutoGen
-
+  
 ### Plataformas cloud y herramientas
 
-- Azure (Synapse, ML, Data Factory, DevOps, Copilot Studio)
+- Azure (Data Factory)
 - Databricks
-- Snowflake
-- Docker, Kubernetes
+- Power Apps
 - Power Automate, Power Automate (RPA)
-- VectorDB, Pinecone
+- SQL
+- Microsoft Fabric
 
 ### Bases de datos y reportería
 
 - SQL Server, Oracle
-- Power BI,
+- Power BI
 
 ### Habilidades blandas
 
@@ -102,6 +74,7 @@ También disfruto ayudando con **Azure**.
 ---
 
 ## Conéctate conmigo
+985517690
 
 - **LinkedIn:** [[linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)](https://www.linkedin.com/in/luishonores/)
 
